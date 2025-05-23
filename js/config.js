@@ -147,11 +147,11 @@ const API_SITES = {
     //     name: '155资源',
     //     adult: true
     // },
-    // lsb: {
-    //     api: 'https://apilsbzy1.com',
-    //     name: 'lsb资源',
-    //     adult: true
-    // },
+    lsb: {
+        api: 'https://apilsbzy1.com',
+        name: 'lsb资源',
+        adult: true
+    },
     // huangcang: {
     //     api: 'https://hsckzy.vip',
     //     name: '黄色仓库',
