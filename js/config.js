@@ -150,7 +150,7 @@ const API_SITES = {
         adult: true,
         detail: 'https://hsckzy.vip'
     },
-    /yutu: {
+    yutu: {
         api: 'https://yutuzy10.com',
         name: '玉兔资源',
         adult: true
